@@ -24,10 +24,7 @@ Questions (KPIs)
 - Combined everything on one dashboard and added slicers (Month, Year, Operating Margin Status, Cluster Ageing) to make it dynamic.
 
 Dashboard
-
-Attach the dashboard screenshot here (CP_Trend_Dashboard.jpg).
-
-
+![Cluster Profitable Dashboard](https://github.com/Abhijeetpatil-1998/Cluster-Profitable-Trend-Analysis-Interactive-Dashboard-using-Power-BI-/blob/main/Cluster%20Profitable%20Dashboard.jpeg)
 
 ### Project Insights
 - Pune and MMR are the top revenue cities, and together they contribute well over half of the revenue shown for the top cities.
