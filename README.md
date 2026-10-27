@@ -4,6 +4,9 @@
 
 Build an interactive dashboard that tracks cluster performance across cities (2022-2024), so the business can understand revenue, churn, profitability and cluster maturity, and focus on the cities and clusters that drive growth.
 
+### Note :
+Due to data privacy and company confidentiality policies, raw datasets, customer records, and the original workbook are proprietary and cannot be shared publicly.
+
 ### Dataset Used
 Cluster-level data covering Cluster ID, City, Month, Year, Base CM, Cluster Revenue, Churn, ARPU, Penetration, EBITDA, GAD FTM, AON bucket, Operating Margin Status and Cluster Ageing.
 
@@ -38,3 +41,8 @@ Dashboard
 ### Final Conclusion
 
 To grow the business, focus on retention in high-churn cities such as Jaipur and Pune, while protecting revenue in Pune and MMR. Nurture newer clusters so they mature past 12 months, since older clusters drive most of the GAD FTM. Improve EBITDA in the large group of low-profit clusters through cost control and ARPU uplift, and use the Month, Year, Margin Status and Ageing slicers to track progress regularly.
+
+### Tools Used
+- Power BI Desktop (Data model, DAX, Visuals, Slicers)
+- Microsoft Excel (Data cleaning)
+
